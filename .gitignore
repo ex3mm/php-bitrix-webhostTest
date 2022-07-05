@@ -1,5 +1,5 @@
 .idea
-bitrix
-upload
-local/vendor
-TODO.php
+/bitrix
+/upload
+/local/vendor
+/TODO.php
